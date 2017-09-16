@@ -1,0 +1,3 @@
+def timesTable(int)
+
+end
